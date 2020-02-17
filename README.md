@@ -2,6 +2,13 @@
 
 to run the django app cd to the backedn file where you have the `manage.py` file 
 
+install this app with pip
+
+```
+'rest_framework',
+'corsheaders',
+```
+
 run
 `python manage.py runserver`
 
