@@ -1,4 +1,3 @@
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 # infinite_scroll_django_react
 
 to run the django app cd to the backedn file where you have the `manage.py` file 
